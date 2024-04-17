@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9179c8cc-80c7-462e-9bc7-3d482f10beea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../26-03/.idea/26-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PessoaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PessoaJuridica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/Lista1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Queastao1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lista1/src/Questao9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/semana6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/src/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/src/LinhaMovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/src/StatusTelefone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../semana6/src/Telefone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/adm.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/adm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/ads.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/ads.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/banco_dados.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/banco_dados.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/eng_computacao.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/eng_computacao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/eng_mecatro.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/eng_mecatro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/eng_prod.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/eng_prod.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/gestao_tec_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/gestao_tec_info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/jogos_digitais.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/jogos_digitais.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/redes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/redes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/sis_informacao.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/sis_informacao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Cursos/sis_internet.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Cursos/sis_internet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Favoritos/sites.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Favoritos/sites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/Banco de dados.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Img/Banco de dados.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/Favorito/Disney.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/Favorito/GPT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/Favorito/Primevideo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/Fiap-logo-novo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/Fiap-logo-novo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/Jogos_digitais.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Img/Jogos_digitais.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/Redes.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Img/Redes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/adm.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Img/adm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/ads.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Img/ads.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/backgound/cool-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/eng_computacao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/eng_mecatronica.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/eng_producao.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Img/eng_producao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/gest_ti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/si.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Img/si.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Img/sis_internet.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Img/sis_internet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Front/EX2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Front/EX2/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eaUyNBQPkEwNU26oKBWPEf6X8E" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vinicius/Documents/FIAP_GIT/Java/Aula03_04&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Vinicius/Documents/FIAP_GIT/Java/Aula03_04/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste" />
+      <module name="Aula03_04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9179c8cc-80c7-462e-9bc7-3d482f10beea" name="Changes" comment="" />
+      <created>1712142436786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712142436786</updated>
+      <workItem from="1712142437901" duration="222000" />
+      <workItem from="1712142673063" duration="5944000" />
+      <workItem from="1712148855894" duration="1008000" />
+      <workItem from="1712353618955" duration="77000" />
+      <workItem from="1712624752006" duration="245000" />
+      <workItem from="1713266531782" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
